@@ -4,7 +4,7 @@
       <UContainer>
         <div class="flex justify-between items-center">
           <div>
-            <p>Heroes of Um'Rak</p>
+            <p>Heroes of Um'rak</p>
           </div>
 
           <div class="flex gap-4">

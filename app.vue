@@ -6,7 +6,7 @@ useHead({
 });
 
 useSeoMeta({
-  title: "Heroes of Um'Rak",
+  title: "Heroes of Um'rak",
   description: "This is my amazing site, let me tell you all about it.",
 });
 </script>
