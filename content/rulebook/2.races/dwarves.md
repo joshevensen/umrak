@@ -9,6 +9,9 @@ title: Dwarves
 Starting HP
 Max HP
 Base Damage
+
+## Characteristics
+
 Height
 Weight
 Speed
