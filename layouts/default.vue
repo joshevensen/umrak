@@ -9,7 +9,7 @@
 
           <div class="flex gap-4">
             <ULink to="/">Home</ULink>
-            <ULink to="/book">Book</ULink>
+            <ULink to="/rulebook">Rulebook</ULink>
             <ULink to="/lore">Lore</ULink>
           </div>
         </div>
