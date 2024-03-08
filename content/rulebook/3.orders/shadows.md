@@ -1,5 +1,5 @@
 ---
-title: Order of Shadows
+title: The Order of Shadows
 ---
 
 # Order of Shadows

@@ -1,5 +1,5 @@
 ---
-title: Order of Battle
+title: The Order of Battle
 ---
 
 # Order of Battle

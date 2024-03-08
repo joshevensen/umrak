@@ -7,7 +7,9 @@ title: Dwarves
 ## Stats
 
 Starting HP
+
 Max HP
+
 Base Damage
 
 ## Characteristics

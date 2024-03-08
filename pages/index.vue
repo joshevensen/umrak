@@ -2,23 +2,34 @@
 definePageMeta({
   layout: "blank",
 });
+
+useSeoMeta({
+  title: "Home",
+});
 </script>
 
 <template>
   <div>
     <div class="py-8">
-      <h1 class="text-5xl font-bold text-center">Heroes of Um'rak</h1>
-      <p class="text-xl text-center">
+      <div class="flex justify-center mb-2">
+        <img
+          src="~/assets/logo-heroes-of-umrak.png"
+          alt="Heroes of Um'rak logo"
+          class="h-40"
+        />
+      </div>
+      <p class="text-3xl text-center">
         Become the hero you've always wanted to be.
       </p>
 
       <div class="mt-6 flex justify-center gap-4">
-        <UButton to="/rulebook">Rulebook</UButton>
-        <UButton to="/lore">Lore</UButton>
+        <UButton to="/rulebook" size="lg">Rulebook</UButton>
+        <UButton to="/lore" size="lg">Lore</UButton>
+        <UButton to="/lore" size="lg">Quests</UButton>
       </div>
     </div>
 
-    <div class="prose">
+    <div class="prose mx-auto">
       <p>
         Heroes of Um'rak will be a casual tabletop rpg that combines aspects of
         Diablo, Dungeons and Dragons, and Choose Your Own Adventure books.

@@ -1,5 +1,5 @@
 ---
-title: Order of Elements
+title: The Order of Elements
 ---
 
 # Order of Elements

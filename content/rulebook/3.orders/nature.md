@@ -1,5 +1,5 @@
 ---
-title: Order of Nature
+title: The Order of Nature
 ---
 
 # Order of Nature

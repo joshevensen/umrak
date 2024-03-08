@@ -1,5 +1,5 @@
 ---
-title: Order of Life
+title: The Order of Life
 ---
 
 # Order of Life
